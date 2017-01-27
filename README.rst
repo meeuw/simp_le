@@ -1,3 +1,8 @@
+This repository is not being actively maintained!
+====
+
+See https://github.com/zenhack/simp_le for a more recently updated version of simp_le
+
 simp\_le
 ========
 
