@@ -3,6 +3,8 @@ This repository is not being actively maintained!
 
 See https://github.com/zenhack/simp_le for a more recently updated version of simp_le
 
+Or use `certbot` (the official Let’s Encrypt client) using the `certonly` mode which is quite compatible how simp_le works. You can migrate your account/configuration using `simp_le2certbot <https://github.com/meeuw/simp_le2certbot>`_.
+
 simp\_le
 ========
 
